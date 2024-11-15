@@ -125,8 +125,8 @@ int main() {
 
 
 ## Output:
+![Screenshot 2024-11-15 131607](https://github.com/user-attachments/assets/d1b7f352-293f-4c07-8058-ee7c66852903)
 
-![image](https://github.com/user-attachments/assets/dbd4f50b-3aca-459b-8953-12b8862bf8c7)
 
 
 
